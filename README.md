@@ -1,0 +1,3 @@
+Deep Learning at Extreme Scale with TensorFlow and Apache Kafka / Confluent on Google Cloud
+
+Code examples to build a Kafka + TensorFlow ML infrastructure... 
